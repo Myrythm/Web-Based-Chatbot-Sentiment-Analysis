@@ -1,4 +1,4 @@
-# Sentiment Analysis Web Application
+# Web-Based Chatbot Sentiment Analysis
 
 This is a simple web application that analyzes user input text and responds with a sentiment-based message. The application uses a Flask backend to communicate with a Hugging Face sentiment analysis model and a frontend built with HTML, CSS, and JavaScript.
 
